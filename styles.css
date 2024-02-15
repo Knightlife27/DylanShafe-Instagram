@@ -1,0 +1,31 @@
+body {
+    background-color: #F8F8F8;
+}
+
+.header {
+    text-align: center;
+    background-color: white;
+}
+
+.titles {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.post {
+    text-align: center;
+    height: 515px;
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.left {
+    margin-left: 10px;
+}
+
+.right {
+    margin-right: 10px;
+}
